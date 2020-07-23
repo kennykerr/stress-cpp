@@ -1,5 +1,4 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
-
-/stress/.vs/stress/v16
+﻿.vs
+packages
+x64
+Debug
